@@ -5,7 +5,7 @@
 + Ember v5.4.0 (LTS)
 + Yarn v4.0.2
 
-# How do I run
+# How do I run?
 ```
 git clone https://github.com/gtechsltn/ember5-jquery3-bootstrap3-font-awesome4.git
 cd src
@@ -36,6 +36,22 @@ yarn start
 + https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker/v/4.17.47
 + https://www.npmjs.com/package/alpaca
 + https://www.npmjs.com/package/alpaca/v/1.5.27
+
+# How do I deploy?
+```
+### Run ember build --environment=production
+ember build -p
+
+### Copy from dist to C:\inetpub\wwwroot\oidc
+xcopy "D:\Ember54\src\dist" "C:\inetpub\wwwroot\oidc" /s /h /i /c /k /e /r /y
+
+### Deploy to the localhost
+http://localhost/oidc/
+```
+
+## Guide
++ [deploying](https://cli.emberjs.com/release/basic-use/deploying/)
++ [Deploying to Multiple Server Environments in Ember](https://dev.to/mattbeiswenger/deploying-to-multiple-server-environments-in-ember-4poc)
 
 # References
 + https://github.com/gtechsltn/ember-sass-jquery3-bootstrap3-font-awesome4/
