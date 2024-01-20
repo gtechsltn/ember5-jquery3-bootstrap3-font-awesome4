@@ -1,4 +1,19 @@
 # Ember 5.4 Starter Kit
++ Node.js v18.19.0 (LTS)
++ NPM (Node Package Manager) v10.2.3
++ NVM (Node Version Manager) v1.1.12
++ Ember v5.4.0 (LTS)
++ Yarn v4.0.2
+
+# How do I run
+```
+git clone https://github.com/gtechsltn/ember5-jquery3-bootstrap3-font-awesome4.git
+cd src
+yarn install
+yarn start
+```
+
+# Tech Stack
 + Ember v5.4
 + HTML, CSS, JavaScript
 + SASS
