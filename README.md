@@ -5,14 +5,6 @@
 + Ember v5.4.0 (LTS)
 + Yarn v4.0.2
 
-# How do I run?
-```
-git clone https://github.com/gtechsltn/ember5-jquery3-bootstrap3-font-awesome4.git
-cd src
-yarn install
-yarn start
-```
-
 # Tech Stack
 + Ember v5.4
 + HTML, CSS, JavaScript
@@ -27,15 +19,13 @@ yarn start
 + Ember Power Calendar Moment
 + [Alpaca v1.5.27](http://www.alpacajs.org/)
 
-# Others
-+ https://www.npmjs.com/package/moment/
-+ https://www.npmjs.com/package/moment/v/2.29.4
-+ https://www.npmjs.com/package/moment-timezone/
-+ https://www.npmjs.com/package/moment-timezone/v/0.5.27
-+ https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker
-+ https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker/v/4.17.47
-+ https://www.npmjs.com/package/alpaca
-+ https://www.npmjs.com/package/alpaca/v/1.5.27
+# How do I run?
+```
+git clone https://github.com/gtechsltn/ember5-jquery3-bootstrap3-font-awesome4.git
+cd src
+yarn install
+yarn start
+```
 
 # How do I deploy?
 ```
@@ -52,6 +42,17 @@ http://localhost/oidc/
 ## Guide
 + [deploying](https://cli.emberjs.com/release/basic-use/deploying/)
 + [Deploying to Multiple Server Environments in Ember](https://dev.to/mattbeiswenger/deploying-to-multiple-server-environments-in-ember-4poc)
+
+# Packages / Libraries
++ https://www.npmjs.com/package/alpaca/
++ https://www.npmjs.com/package/bootstrap/
++ https://www.npmjs.com/package/ember-cli/
++ https://www.npmjs.com/package/ember-data
++ https://www.npmjs.com/package/ember-source
++ https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker/
++ https://www.npmjs.com/package/jquery/
++ https://www.npmjs.com/package/moment/
++ https://www.npmjs.com/package/moment-timezone/
 
 # References
 + https://github.com/gtechsltn/ember-sass-jquery3-bootstrap3-font-awesome4/
