@@ -20,6 +20,7 @@
 + Moment Timezone v0.5.27
 + [Ember Power Calendar](https://ember-power-calendar.com/)
 + Ember Power Calendar Moment
++ Ember Shepherd
 + [Alpaca v1.5.27](http://www.alpacajs.org/)
 
 # How do I run?
