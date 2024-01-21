@@ -4,6 +4,7 @@
 + NVM (Node Version Manager) v1.1.12
 + Ember v5.4.0 (LTS)
 + Bower
+  + npm install -g bower
   + npm install --save-dev ember-cli-sass
   + npm update caniuse-lite
 
