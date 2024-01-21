@@ -3,6 +3,8 @@
 + NPM (Node Package Manager) v10.2.3
 + NVM (Node Version Manager) v1.1.12
 + Ember v5.4.0 (LTS)
+  + npm install --global ember-cli@5.4
+  + npm install --save-dev ember-source@~5.4.0
 + Bower
   + npm install -g bower
   + npm install --save-dev ember-cli-sass
@@ -20,7 +22,9 @@
 + Moment Timezone v0.5.27
 + [Ember Power Calendar](https://ember-power-calendar.com/)
 + Ember Power Calendar Moment
+  + ember install ember-power-calendar
 + Ember Shepherd
+  + ember install ember-shepherd
 + [Alpaca v1.5.27](http://www.alpacajs.org/)
 
 # How do I run?
